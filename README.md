@@ -30,18 +30,17 @@
 </head>
 <body>
 
-    <button onclick="playSound('sound1.mp3')">Meme Sound 1</button>
-    <button onclick="playSound('sound2.mp3')">Meme Sound 2</button>
-    <button onclick="playSound('sound3.mp3')">Meme Sound 3</button>
-    <button onclick="playSound('sound4.mp3')">Meme Sound 4</button>
-    <button onclick="playSound('sound5.mp3')">Meme Sound 5</button>
-    <button onclick="playSound('sound6.mp3')">Meme Sound 6</button>
-    <button onclick="playSound('sound7.mp3')">Meme Sound 7</button>
-    <button onclick="playSound('sound8.mp3')">Meme Sound 8</button>
-
+  <button onclick="playSound('sound1.mp3')">Meme Sound 1</button>
+   <button onclick="playSound('sound2.mp3')">Meme Sound 2</button>
+   <button onclick="playSound('sound3.mp3')">Meme Sound 3</button>
+   <button onclick="playSound('sound4.mp3')">Meme Sound 4</button>
+   <button onclick="playSound('sound5.mp3')">Meme Sound 5</button>
+   <button onclick="playSound('sound6.mp3')">Meme Sound 6</button>
+   <button onclick="playSound('sound7.mp3')">Meme Sound 7</button>
+   <button onclick="playSound('sound8.mp3')">Meme Sound 8</button>
     <audio id="audio" src=""></audio>
 
-    <script>
+  <script>
         function playSound(sound) {
             const audio = document.getElementById('audio');
             audio.src = sound;
