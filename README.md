@@ -57,7 +57,7 @@
         <h1>Miau Miau Miau Miau</h1>
         <p>Miau miau, miau miau miau. ¡Miau!</p>
         
-        http://googleusercontent.com/image_generation_content/0
+        MIAU MIAU MIAU MIAU MIAU MIAU MIAU MIAU
 
         <p>miau miau miau miau miau miau miau miau miau miau miau miau</p>
         
